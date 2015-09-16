@@ -1,0 +1,3 @@
+001-0254a13	TKD 40-0387b	buddhist/K-koreana/40-tif/0300-0399/40_0387_B.TIF
+001-0254b03	TKD 40-0387c	buddhist/K-koreana/40-tif/0300-0399/40_0387_C.TIF
+001-0254b00	T 001-0254b	buddhist/T-taisho/T30/02/T30-0254.png
