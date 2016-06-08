@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:28.436128
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:33
 #+TITLE: 大乘破有論
 #+PROPERTY: CBETA_ID T30n1574
 #+PROPERTY: ID KR6m0019
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1574
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0019_T_001-0254a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1574¶
-
- 《大乘破有論》¶
+No. 1574¶
+《大乘破有論》¶
 ¶
 龍樹菩薩造¶
 西天譯經三藏朝奉大¶
